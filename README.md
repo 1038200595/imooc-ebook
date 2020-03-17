@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 「小慕读书」小程序源码
 
 > 官网地址：http://www.youbaobao.xyz/mpvue-docs/
@@ -12,7 +11,6 @@ git commit -m "write your meaaage"
 git remote -v
 git remote add origin https://github.com/1038200595/imooc-ebook.git
 git remote -v
-git push origin master
-git push --set-upstream origin master
+git push   //或者 git push origin master   //git push --set-upstream origin master
 
 rm -rf .git
