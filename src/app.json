@@ -1,0 +1,36 @@
+{
+  "pages": [
+    "pages/index/main",
+    "pages/detail/main",
+    "pages/read/main",
+    "pages/shelf/main",
+    "pages/search/main",
+    "pages/list/main",
+    "pages/categoryList/main",
+    "pages/web/main",
+    "pages/rank/main",
+    "pages/chapter/main",
+    "pages/exercise/main"
+  ],
+  "usingComponents": {
+    "van-button": "vant-weapp/dist/button/index",
+    "van-icon": "vant-weapp/dist/icon/index",
+    "van-rate": "vant-weapp/dist/rate/index",
+    "toast": "vant-weapp/dist/toast/index",
+    "van-dialog": "vant-weapp/dist/dialog/index",
+    "van-notice-bar": "vant-weapp/dist/notice-bar/index",
+    "van-progress": "vant-weapp/dist/progress/index",
+    "van-tab": "vant-weapp/dist/tab/index",
+    "van-tabs": "vant-weapp/dist/tabs/index",
+    "van-action-sheet": "vant-weapp/dist/action-sheet/index",
+    "van-collapse": "vant-weapp/dist/collapse/index",
+    "van-collapse-item": "vant-weapp/dist/collapse-item/index",
+    "wemark": "../../static/wemark/wemark"
+  },
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "小慕读书",
+    "navigationBarTextStyle": "black"
+  }
+}
